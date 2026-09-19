@@ -1,0 +1,72 @@
+{
+ "model": "gemini-2.5-flash",
+ "modelVersion": "gemini-2.5-flash",
+ "usage": {
+  "promptTokenCount": 4264,
+  "candidatesTokenCount": 501,
+  "totalTokenCount": 7821,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 910
+   },
+   {
+    "modality": "IMAGE",
+    "tokenCount": 3354
+   }
+  ],
+  "thoughtsTokenCount": 3056,
+  "serviceTier": "standard"
+ },
+ "files": [
+  "1280_R1.png",
+  "1280_R2_1.png",
+  "1280_R2_2.png",
+  "1280_R3.png",
+  "1280_first.png",
+  "375_R1.png",
+  "375_R10.png",
+  "375_R2_1.png",
+  "375_R2_2.png",
+  "375_R4.png",
+  "375_R8.png",
+  "375_R9.png",
+  "375_first.png"
+ ],
+ "at": "2026-09-19T15:38:20",
+ "response": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "R1: NO — 本文の文字サイズは16pxで、15px未満ではない。\nR2（375）: NO — H2「何が起きているか」と「自分でできる確認」の文字サイズはどちらも約20pxで、2種類以上の大きさは混在していない。\nR2（1280）: NO — H2「何が起きているか」と「自分でできる確認」の文字サイズはどちらも約20pxで、2種類以上の大きさは混在していない。\nR3: YES — 1280幅の本文の1行の長さは約50em（約800px / 16px）で、38em（約608px）を超えている。\nR4: NO — 375幅のh1は4行で、5行以上ではない。\nR5: 該当なし — ラジオボタンの4択の画像がない。\nR6: 該当なし — 目次（details の summary）の画像がない。\nR7: 該当なし — 目次の項目リンクの画像がない。\nR8: 該当なし — フッタの地図（サイト内リンク一覧）の画像がない。\nR9: 該当なし — Works の小ナビ（点検と修理／業務自動化／…）の画像がない。\nR10: YES — 375幅のパンくずのリンクの高さは約20pxで、44px未満である。\n\n---\n10ルール以外で「直すべき」と思う箇所:\n\n1.  **グローバルナビゲーションの項目配置（1280幅）**\n    -   理由: 「Sumitsukeについて」と「相談する」ボタンが他のナビ項目と離れて配置されており、視覚的な一貫性が低い。\n2.  **375幅のパンくずリストの省略表示**\n    -   理由: 最後の項目が「外注したシステ...」と途中で切れており、ユーザーが現在のページを正確に把握しづらい。\n3.  **375幅のH1と本文の間の余白**\n    -   理由: H1と本文の間の余白が狭く、情報の階層が不明瞭で読みにくい。"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 4264,
+   "candidatesTokenCount": 501,
+   "totalTokenCount": 7821,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 910
+    },
+    {
+     "modality": "IMAGE",
+     "tokenCount": 3354
+    }
+   ],
+   "thoughtsTokenCount": 3056,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "yy2uatmXDIXZrfcPz_eK4Aw"
+ }
+}

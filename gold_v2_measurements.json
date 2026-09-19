@@ -1,0 +1,378 @@
+{
+ "commit": "7bec67f",
+ "chrome": "Chrome/153.0.8010.50",
+ "note": "撮影と同じ headless Chrome（CDP）で測った DOM 値。R1＝main 内の文字（nav・パンくず・form・button・小ナビ・目次・footer を除く）",
+ "pages": {
+  "/": {
+   "375": {
+    "minFont": 13.5,
+    "h2sizes": [
+     "26px",
+     "22px",
+     "34px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 3,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": null,
+    "R10": null
+   },
+   "1280": {
+    "minFont": 13.5,
+    "h2sizes": [
+     "26px",
+     "34px",
+     "22px",
+     "44px"
+    ],
+    "lineLenEm": 21.6,
+    "h1lines": 3,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": null,
+    "R10": null
+   }
+  },
+  "/about/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 15.2,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": null,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px",
+     "34px"
+    ],
+    "lineLenEm": 18.3,
+    "h1lines": 1,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": null,
+    "R10": 40
+   }
+  },
+  "/lab/": {
+   "375": {
+    "minFont": 13.5,
+    "h2sizes": [
+     "22px",
+     "26px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": null,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 13.5,
+    "h2sizes": [
+     "22px",
+     "26px"
+    ],
+    "lineLenEm": 41.4,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": null,
+    "R10": 40
+   }
+  },
+  "/lab/green-is-not-proof/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "22px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 6,
+    "choices4": null,
+    "R6": 32,
+    "R7": 37,
+    "R8": 45,
+    "R9": null,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "22px"
+    ],
+    "lineLenEm": 33.4,
+    "h1lines": 3,
+    "choices4": null,
+    "R6": 32,
+    "R7": 37,
+    "R8": 45,
+    "R9": null,
+    "R10": 40
+   }
+  },
+  "/works/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px",
+     "34px"
+    ],
+    "lineLenEm": 23.7,
+    "h1lines": 1,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  },
+  "/works/repair/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px",
+     "34px"
+    ],
+    "lineLenEm": 32,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  },
+  "/works/pricing/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 16.8,
+    "h1lines": 1,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 18.7,
+    "h1lines": 1,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  },
+  "/works/flow/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 16.3,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 33.4,
+    "h1lines": 1,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  },
+  "/works/contact/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "22px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 1,
+    "choices4": 161,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "22px"
+    ],
+    "lineLenEm": 32,
+    "h1lines": 1,
+    "choices4": 65,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  },
+  "/works/guide/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 15.2,
+    "h1lines": 1,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "26px",
+     "34px"
+    ],
+    "lineLenEm": 32.2,
+    "h1lines": 1,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  },
+  "/works/guide/outsourced-unfinished/": {
+   "375": {
+    "minFont": 15,
+    "h2sizes": [
+     "22px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 4,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 15,
+    "h2sizes": [
+     "22px"
+    ],
+    "lineLenEm": 44,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": null,
+    "R7": null,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  },
+  "/works/cases/integrity-warning/": {
+   "375": {
+    "minFont": 13.5,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 19.7,
+    "h1lines": 3,
+    "choices4": null,
+    "R6": 32,
+    "R7": 37,
+    "R8": 45,
+    "R9": 40,
+    "R10": 40
+   },
+   "1280": {
+    "minFont": 13.5,
+    "h2sizes": [
+     "26px"
+    ],
+    "lineLenEm": 33.4,
+    "h1lines": 2,
+    "choices4": null,
+    "R6": 32,
+    "R7": 37,
+    "R8": 45,
+    "R9": 45,
+    "R10": 40
+   }
+  }
+ }
+}

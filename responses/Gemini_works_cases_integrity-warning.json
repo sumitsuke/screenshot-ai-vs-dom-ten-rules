@@ -1,0 +1,74 @@
+{
+ "model": "gemini-2.5-flash",
+ "modelVersion": "gemini-2.5-flash",
+ "usage": {
+  "promptTokenCount": 4824,
+  "candidatesTokenCount": 545,
+  "totalTokenCount": 10292,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 954
+   },
+   {
+    "modality": "IMAGE",
+    "tokenCount": 3870
+   }
+  ],
+  "thoughtsTokenCount": 4923,
+  "serviceTier": "standard"
+ },
+ "files": [
+  "1280_R1.png",
+  "1280_R2_1.png",
+  "1280_R2_2.png",
+  "1280_R3.png",
+  "1280_first.png",
+  "375_R1.png",
+  "375_R10.png",
+  "375_R2_1.png",
+  "375_R2_2.png",
+  "375_R4.png",
+  "375_R6.png",
+  "375_R7.png",
+  "375_R8.png",
+  "375_R9.png",
+  "375_first.png"
+ ],
+ "at": "2026-09-19T15:36:12",
+ "response": {
+  "candidates": [
+   {
+    "content": {
+     "parts": [
+      {
+       "text": "R1: NO — 本文の文字サイズは最小でも16px程度に見え、15px未満の箇所は見当たらない。\nR2（375）: NO — 「1. 問題」と「2. 制約」のH2の文字サイズはどちらも約24pxで同じに見える。\nR2（1280）: NO — 「1. 問題」と「2. 制約」のH2の文字サイズはどちらも約24pxで同じに見える。\nR3: YES — 本文の1行の幅が約700pxあり、文字サイズ16px換算で約43.75emとなり、38em（608px）を超えている。\nR4: NO — h1は3行であり、5行未満である。\nR5: 該当なし — ラジオボタンの画像が添付されていないため判断できない。\nR6: YES — 目次（detailsのsummary）の高さが約30pxであり、44px未満である。\nR7: 不明 — 目次の項目リンクが展開された状態の画像がないため、高さが判断できない。\nR8: YES — フッタのリンク「仕事を依頼」の高さが約40pxであり、44px未満である。\nR9: 該当なし — Worksの小ナビに該当する画像が添付されていないため判断できない。\nR10: YES — パンくずのリンク「Sumitsuke」の高さが約20pxであり、44px未満である。\n\n---\n直すべき箇所（最大3件）:\n\n1.  **本文の1行の長さ（1280幅）**: `1280_R3.png` にて、本文の1行の長さが約43.75emと長く、読みづらい可能性があるため、38em程度に制限すべき。\n2.  **目次（detailsのsummary）の高さ（375幅）**: `375_R6.png` にて、目次のsummary要素の高さが約30pxと小さく、モバイルでのタップターゲットとして操作しづらい可能性があるため、44px以上にすべき。\n3.  **フッタのリンクの高さ（375幅）**: `375_R8.png` にて、フッタのリンクの高さが約40pxと小さく、モバイルでのタップターゲットとして操作しづらい可能性があるため、44px以上にすべき。"
+      }
+     ],
+     "role": "model"
+    },
+    "finishReason": "STOP",
+    "index": 0
+   }
+  ],
+  "usageMetadata": {
+   "promptTokenCount": 4824,
+   "candidatesTokenCount": 545,
+   "totalTokenCount": 10292,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 954
+    },
+    {
+     "modality": "IMAGE",
+     "tokenCount": 3870
+    }
+   ],
+   "thoughtsTokenCount": 4923,
+   "serviceTier": "standard"
+  },
+  "modelVersion": "gemini-2.5-flash",
+  "responseId": "Qy2uarPxHsfG2roPnLjImAU"
+ }
+}

@@ -1,0 +1,2657 @@
+{
+ "commit": "7bec67f",
+ "base": "http://localhost:4323",
+ "chrome": "Chrome/153.0.8010.50",
+ "capture_started": "2026-09-19T06:11:09.535Z",
+ "device_scale_factor": 1,
+ "generator": "shoot_cdp.mjs",
+ "generator_sha256_16": "f1f6be1aec1896b4",
+ "pad": 40,
+ "items": [
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\top\\375_first.png",
+   "sha256_16": "c9c681c799208811",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\top\\375_R1.png",
+   "sha256_16": "a1b53a00eb5a2c7f",
+   "px": [
+    360,
+    106
+   ],
+   "box": [
+    83,
+    2760,
+    53,
+    26
+   ]
+  },
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\top\\375_R2_1.png",
+   "sha256_16": "7964e3b183543cab",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    1196,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\top\\375_R2_2.png",
+   "sha256_16": "9dd1298cd839de7f",
+   "px": [
+    375,
+    189
+   ],
+   "box": [
+    20,
+    2043,
+    335,
+    109
+   ]
+  },
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\top\\375_R2_3.png",
+   "sha256_16": "0f0b9cc24ba503f2",
+   "px": [
+    375,
+    113
+   ],
+   "box": [
+    20,
+    2710,
+    335,
+    33
+   ]
+  },
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\top\\375_R2_4.png",
+   "sha256_16": "d463fc8cd26005cb",
+   "px": [
+    375,
+    182
+   ],
+   "box": [
+    20,
+    5273,
+    335,
+    102
+   ]
+  },
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\top\\375_R4.png",
+   "sha256_16": "81f1ddb2e747061e",
+   "px": [
+    375,
+    213
+   ],
+   "box": [
+    20,
+    251,
+    335,
+    133
+   ]
+  },
+  {
+   "page": "/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\top\\375_R8.png",
+   "sha256_16": "2651679a5642a06f",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    6514,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\top\\1280_first.png",
+   "sha256_16": "851c526bc99a0f01",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\top\\1280_R1.png",
+   "sha256_16": "d22a898ecdc22646",
+   "px": [
+    360,
+    106
+   ],
+   "box": [
+    127,
+    1949,
+    53,
+    26
+   ]
+  },
+  {
+   "page": "/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\top\\1280_R2_1.png",
+   "sha256_16": "9015fa37cbbb1f3c",
+   "px": [
+    443,
+    119
+   ],
+   "box": [
+    64,
+    913,
+    363,
+    39
+   ]
+  },
+  {
+   "page": "/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\top\\1280_R2_2.png",
+   "sha256_16": "98a43ee3ad79e40e",
+   "px": [
+    715,
+    175
+   ],
+   "box": [
+    64,
+    1518,
+    635,
+    95
+   ]
+  },
+  {
+   "page": "/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\top\\1280_R2_3.png",
+   "sha256_16": "d604d4bb86455de6",
+   "px": [
+    1232,
+    113
+   ],
+   "box": [
+    64,
+    1900,
+    1152,
+    33
+   ]
+  },
+  {
+   "page": "/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\top\\1280_R2_4.png",
+   "sha256_16": "32927cefd163dec4",
+   "px": [
+    795,
+    212
+   ],
+   "box": [
+    501,
+    3444,
+    715,
+    132
+   ]
+  },
+  {
+   "page": "/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\top\\1280_R3.png",
+   "sha256_16": "f92b68c5da0a9ff4",
+   "px": [
+    447,
+    209
+   ],
+   "box": [
+    64,
+    4098,
+    367,
+    129
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\about\\375_first.png",
+   "sha256_16": "2e2acef38fdd5e28",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\about\\375_R1.png",
+   "sha256_16": "12fa04952adcd2ea",
+   "px": [
+    375,
+    109
+   ],
+   "box": [
+    20,
+    165,
+    335,
+    29
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\about\\375_R2_1.png",
+   "sha256_16": "aa1fe20776ad6e02",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    1249,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\about\\375_R2_2.png",
+   "sha256_16": "66910ce30c73273c",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    1571,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\about\\375_R4.png",
+   "sha256_16": "f1ad7b0291a69d96",
+   "px": [
+    375,
+    165
+   ],
+   "box": [
+    20,
+    213,
+    335,
+    85
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\about\\375_R8.png",
+   "sha256_16": "47a76952d48909c8",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    4043,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\about\\375_R10.png",
+   "sha256_16": "0e0d41504f15ecf2",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    82,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\about\\1280_first.png",
+   "sha256_16": "7ee40afc2ef2c4ad",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\about\\1280_R1.png",
+   "sha256_16": "c096df9558fa181e",
+   "px": [
+    545,
+    109
+   ],
+   "box": [
+    64,
+    200,
+    465,
+    29
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\about\\1280_R2_1.png",
+   "sha256_16": "56c2e2004075034a",
+   "px": [
+    624,
+    119
+   ],
+   "box": [
+    64,
+    1049,
+    544,
+    39
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\about\\1280_R2_2.png",
+   "sha256_16": "86d9e0d85386fbe7",
+   "px": [
+    624,
+    119
+   ],
+   "box": [
+    672,
+    1049,
+    544,
+    39
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\about\\1280_R2_3.png",
+   "sha256_16": "f2ef5a117729aba9",
+   "px": [
+    1232,
+    172
+   ],
+   "box": [
+    64,
+    1898,
+    1152,
+    92
+   ]
+  },
+  {
+   "page": "/about/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\about\\1280_R3.png",
+   "sha256_16": "34146c8922f76d27",
+   "px": [
+    483,
+    230
+   ],
+   "box": [
+    64,
+    324,
+    403,
+    150
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\lab\\375_first.png",
+   "sha256_16": "718c628d51860571",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\lab\\375_R1.png",
+   "sha256_16": "1751da8f4cb63403",
+   "px": [
+    360,
+    106
+   ],
+   "box": [
+    83,
+    534,
+    53,
+    26
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\lab\\375_R2_1.png",
+   "sha256_16": "a8d84cdb81bab963",
+   "px": [
+    375,
+    113
+   ],
+   "box": [
+    20,
+    1356,
+    335,
+    33
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\lab\\375_R2_2.png",
+   "sha256_16": "3eb0bb3d56d510c5",
+   "px": [
+    375,
+    158
+   ],
+   "box": [
+    20,
+    2094,
+    335,
+    78
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\lab\\375_R4.png",
+   "sha256_16": "d123a06bb0c173eb",
+   "px": [
+    375,
+    150
+   ],
+   "box": [
+    20,
+    224,
+    335,
+    70
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\lab\\375_R8.png",
+   "sha256_16": "3544dbe36737f718",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    7945,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\lab\\375_R10.png",
+   "sha256_16": "ef61b76154cf5407",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    85,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\lab\\1280_first.png",
+   "sha256_16": "96196b83cb355100",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\lab\\1280_R1.png",
+   "sha256_16": "08cfb4f121d09d99",
+   "px": [
+    360,
+    106
+   ],
+   "box": [
+    127,
+    606,
+    53,
+    26
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\lab\\1280_R2_1.png",
+   "sha256_16": "9d7325825357c12f",
+   "px": [
+    1232,
+    113
+   ],
+   "box": [
+    64,
+    1249,
+    1152,
+    33
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\lab\\1280_R2_2.png",
+   "sha256_16": "26965792fa7cad1b",
+   "px": [
+    784,
+    119
+   ],
+   "box": [
+    64,
+    1902,
+    704,
+    39
+   ]
+  },
+  {
+   "page": "/lab/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\lab\\1280_R3.png",
+   "sha256_16": "4c84678ae0b31e05",
+   "px": [
+    784,
+    209
+   ],
+   "box": [
+    64,
+    1954,
+    704,
+    129
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\lab_green-is-not-proof\\375_first.png",
+   "sha256_16": "50e71c0af053d54e",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\lab_green-is-not-proof\\375_R1.png",
+   "sha256_16": "bd312e8f70eace4c",
+   "px": [
+    360,
+    110
+   ],
+   "box": [
+    20,
+    119,
+    109,
+    30
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\lab_green-is-not-proof\\375_R2_1.png",
+   "sha256_16": "7653bbd61a668aa5",
+   "px": [
+    375,
+    113
+   ],
+   "box": [
+    20,
+    1429,
+    335,
+    33
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\lab_green-is-not-proof\\375_R2_2.png",
+   "sha256_16": "2ebcc904383a557b",
+   "px": [
+    375,
+    134
+   ],
+   "box": [
+    20,
+    1906,
+    335,
+    54
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\lab_green-is-not-proof\\375_R4.png",
+   "sha256_16": "8c1dcbf62c2b9e46",
+   "px": [
+    375,
+    386
+   ],
+   "box": [
+    20,
+    237,
+    335,
+    306
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R6",
+   "file": "shots2\\lab_green-is-not-proof\\375_R6.png",
+   "sha256_16": "3fdb09bb64d7a25d",
+   "px": [
+    375,
+    112
+   ],
+   "box": [
+    20,
+    1824,
+    335,
+    32
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R7",
+   "file": "shots2\\lab_green-is-not-proof\\375_R7.png",
+   "sha256_16": "bc43fb8cd398fc27",
+   "px": [
+    110,
+    117
+   ],
+   "box": [
+    42,
+    1857,
+    30,
+    37
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\lab_green-is-not-proof\\375_R8.png",
+   "sha256_16": "3544dbe36737f718",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    8507,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\lab_green-is-not-proof\\375_R10.png",
+   "sha256_16": "01a5ebfb437802d6",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    85,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\lab_green-is-not-proof\\1280_first.png",
+   "sha256_16": "ccb3f03dac077828",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\lab_green-is-not-proof\\1280_R1.png",
+   "sha256_16": "0a44672d09792dc9",
+   "px": [
+    360,
+    110
+   ],
+   "box": [
+    320,
+    152,
+    109,
+    30
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\lab_green-is-not-proof\\1280_R2_1.png",
+   "sha256_16": "7a64380bb941f977",
+   "px": [
+    720,
+    113
+   ],
+   "box": [
+    320,
+    982,
+    640,
+    33
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\lab_green-is-not-proof\\1280_R2_2.png",
+   "sha256_16": "87827c28d24168be",
+   "px": [
+    720,
+    146
+   ],
+   "box": [
+    320,
+    1490,
+    640,
+    66
+   ]
+  },
+  {
+   "page": "/lab/green-is-not-proof/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\lab_green-is-not-proof\\1280_R3.png",
+   "sha256_16": "05146b5a098472d4",
+   "px": [
+    648,
+    209
+   ],
+   "box": [
+    320,
+    7093,
+    568,
+    129
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works\\375_first.png",
+   "sha256_16": "c78f1bf82b9da919",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works\\375_R1.png",
+   "sha256_16": "9e2aa7b8383b733c",
+   "px": [
+    375,
+    109
+   ],
+   "box": [
+    20,
+    282,
+    335,
+    29
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works\\375_R2_1.png",
+   "sha256_16": "40e2a7fc9100865b",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    1347,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works\\375_R2_2.png",
+   "sha256_16": "b3e1b5666b60b2b0",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    2344,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works\\375_R4.png",
+   "sha256_16": "7a27fa1899d601de",
+   "px": [
+    375,
+    150
+   ],
+   "box": [
+    20,
+    331,
+    335,
+    70
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works\\375_R8.png",
+   "sha256_16": "3544dbe36737f718",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    6719,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works\\375_R9.png",
+   "sha256_16": "96842b4033213b57",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works\\375_R10.png",
+   "sha256_16": "eadbaea521d8cb22",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works\\1280_first.png",
+   "sha256_16": "a63b337349b3a54e",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works\\1280_R1.png",
+   "sha256_16": "3870701050c81892",
+   "px": [
+    545,
+    109
+   ],
+   "box": [
+    64,
+    262,
+    465,
+    29
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works\\1280_R2_1.png",
+   "sha256_16": "d40e7622358202e8",
+   "px": [
+    443,
+    119
+   ],
+   "box": [
+    64,
+    980,
+    363,
+    39
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works\\1280_R2_2.png",
+   "sha256_16": "574b31a3de4c097e",
+   "px": [
+    1232,
+    119
+   ],
+   "box": [
+    64,
+    1735,
+    1152,
+    39
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works\\1280_R2_3.png",
+   "sha256_16": "b20fa744abd6026a",
+   "px": [
+    1232,
+    128
+   ],
+   "box": [
+    64,
+    3973,
+    1152,
+    48
+   ]
+  },
+  {
+   "page": "/works/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works\\1280_R3.png",
+   "sha256_16": "6c70d0264fc41c59",
+   "px": [
+    483,
+    209
+   ],
+   "box": [
+    64,
+    386,
+    403,
+    129
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works_repair\\375_first.png",
+   "sha256_16": "99a4d0ed6c4c83c3",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works_repair\\375_R1.png",
+   "sha256_16": "72a3e5ac8daec8d6",
+   "px": [
+    375,
+    109
+   ],
+   "box": [
+    20,
+    282,
+    335,
+    29
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_repair\\375_R2_1.png",
+   "sha256_16": "b7bf3fc4df86fff6",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    1218,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_repair\\375_R2_2.png",
+   "sha256_16": "81c2ef6e1b05f62a",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    2797,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works_repair\\375_R4.png",
+   "sha256_16": "9e24cdde4a8f68b6",
+   "px": [
+    375,
+    150
+   ],
+   "box": [
+    20,
+    331,
+    335,
+    70
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works_repair\\375_R8.png",
+   "sha256_16": "b6cc5a1ff4724d82",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    9104,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works_repair\\375_R9.png",
+   "sha256_16": "79c9cd7ede6aea01",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works_repair\\375_R10.png",
+   "sha256_16": "a266be57cdf0faf0",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works_repair\\1280_first.png",
+   "sha256_16": "60c2c297173f9964",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works_repair\\1280_R1.png",
+   "sha256_16": "b484a6bff02f14bf",
+   "px": [
+    545,
+    109
+   ],
+   "box": [
+    64,
+    262,
+    465,
+    29
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_repair\\1280_R2_1.png",
+   "sha256_16": "987c1645690b242e",
+   "px": [
+    1232,
+    119
+   ],
+   "box": [
+    64,
+    991,
+    1152,
+    39
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_repair\\1280_R2_2.png",
+   "sha256_16": "bcc1ba7069b6cae1",
+   "px": [
+    592,
+    119
+   ],
+   "box": [
+    64,
+    1995,
+    512,
+    39
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_repair\\1280_R2_3.png",
+   "sha256_16": "4c7ab496ef50a30f",
+   "px": [
+    1232,
+    128
+   ],
+   "box": [
+    64,
+    5481,
+    1152,
+    48
+   ]
+  },
+  {
+   "page": "/works/repair/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works_repair\\1280_R3.png",
+   "sha256_16": "05e17c6cb5f6d382",
+   "px": [
+    624,
+    177
+   ],
+   "box": [
+    64,
+    4383,
+    544,
+    97
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works_pricing\\375_first.png",
+   "sha256_16": "c263828a96005cf0",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works_pricing\\375_R1.png",
+   "sha256_16": "bd7ce1ec2355435f",
+   "px": [
+    360,
+    211
+   ],
+   "box": [
+    20,
+    422,
+    40,
+    131
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_pricing\\375_R2_1.png",
+   "sha256_16": "f48e72922a77ba43",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    2138,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_pricing\\375_R2_2.png",
+   "sha256_16": "6a4c58a3aded68da",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    2559,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works_pricing\\375_R4.png",
+   "sha256_16": "9b9f6fa40bf5b4c4",
+   "px": [
+    375,
+    131
+   ],
+   "box": [
+    20,
+    226,
+    335,
+    51
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works_pricing\\375_R8.png",
+   "sha256_16": "2651679a5642a06f",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    5583,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works_pricing\\375_R9.png",
+   "sha256_16": "fb478772fbd625b3",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works_pricing\\375_R10.png",
+   "sha256_16": "5f6ae828a2ec4e04",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works_pricing\\1280_first.png",
+   "sha256_16": "7c6f51bf51e40fd6",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works_pricing\\1280_R1.png",
+   "sha256_16": "6571d4e4f62de634",
+   "px": [
+    360,
+    178
+   ],
+   "box": [
+    64,
+    380,
+    40,
+    98
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_pricing\\1280_R2_1.png",
+   "sha256_16": "e31df26b58560f74",
+   "px": [
+    624,
+    119
+   ],
+   "box": [
+    64,
+    1362,
+    544,
+    39
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_pricing\\1280_R2_2.png",
+   "sha256_16": "3276c8516a7e228b",
+   "px": [
+    624,
+    119
+   ],
+   "box": [
+    672,
+    1362,
+    544,
+    39
+   ]
+  },
+  {
+   "page": "/works/pricing/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works_pricing\\1280_R3.png",
+   "sha256_16": "ea90bb36c8791314",
+   "px": [
+    398,
+    246
+   ],
+   "box": [
+    89,
+    1063,
+    318,
+    166
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works_flow\\375_first.png",
+   "sha256_16": "ac17b833d14c4d10",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works_flow\\375_R1.png",
+   "sha256_16": "b80c14673097843f",
+   "px": [
+    360,
+    178
+   ],
+   "box": [
+    20,
+    473,
+    40,
+    98
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_flow\\375_R2_1.png",
+   "sha256_16": "79cce8d2fdd2ebe8",
+   "px": [
+    375,
+    144
+   ],
+   "box": [
+    20,
+    2098,
+    335,
+    64
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_flow\\375_R2_2.png",
+   "sha256_16": "9ad15baab2cb8997",
+   "px": [
+    375,
+    144
+   ],
+   "box": [
+    20,
+    2826,
+    335,
+    64
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works_flow\\375_R4.png",
+   "sha256_16": "c6863d6978de7a0c",
+   "px": [
+    375,
+    182
+   ],
+   "box": [
+    20,
+    226,
+    335,
+    102
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works_flow\\375_R8.png",
+   "sha256_16": "b6cc5a1ff4724d82",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    3433,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works_flow\\375_R9.png",
+   "sha256_16": "cd7c64b99f48cb20",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works_flow\\375_R10.png",
+   "sha256_16": "49a4833606b97d3f",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works_flow\\1280_first.png",
+   "sha256_16": "aaacf191e297df84",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works_flow\\1280_R1.png",
+   "sha256_16": "64328f78c6432718",
+   "px": [
+    360,
+    145
+   ],
+   "box": [
+    64,
+    380,
+    40,
+    65
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_flow\\1280_R2_1.png",
+   "sha256_16": "7ec909213f11874b",
+   "px": [
+    1232,
+    160
+   ],
+   "box": [
+    64,
+    1532,
+    1152,
+    80
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_flow\\1280_R2_2.png",
+   "sha256_16": "36f5e53bdb24367a",
+   "px": [
+    1232,
+    160
+   ],
+   "box": [
+    64,
+    2138,
+    1152,
+    80
+   ]
+  },
+  {
+   "page": "/works/flow/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works_flow\\1280_R3.png",
+   "sha256_16": "cbe64319a70dbebf",
+   "px": [
+    648,
+    179
+   ],
+   "box": [
+    122,
+    1162,
+    568,
+    99
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works_contact\\375_first.png",
+   "sha256_16": "51d0c195f2d1367b",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works_contact\\375_R1.png",
+   "sha256_16": "b817cc2fc0a21fd4",
+   "px": [
+    360,
+    95
+   ],
+   "box": [
+    171,
+    2042,
+    135,
+    15
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_contact\\375_R2_1.png",
+   "sha256_16": "1fe8d47a015dcc61",
+   "px": [
+    375,
+    113
+   ],
+   "box": [
+    20,
+    2185,
+    335,
+    33
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_contact\\375_R2_2.png",
+   "sha256_16": "a4d6bc64095a5ca1",
+   "px": [
+    375,
+    113
+   ],
+   "box": [
+    20,
+    2649,
+    335,
+    33
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works_contact\\375_R4.png",
+   "sha256_16": "a823017b9ebce14a",
+   "px": [
+    375,
+    131
+   ],
+   "box": [
+    20,
+    226,
+    335,
+    51
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R5",
+   "file": "shots2\\works_contact\\375_R5.png",
+   "sha256_16": "54ef00b25bb35786",
+   "px": [
+    375,
+    241
+   ],
+   "box": [
+    20,
+    889,
+    335,
+    161
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works_contact\\375_R8.png",
+   "sha256_16": "47a76952d48909c8",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    3234,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works_contact\\375_R9.png",
+   "sha256_16": "c63efabfcfb96022",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works_contact\\375_R10.png",
+   "sha256_16": "ffad98192a318342",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works_contact\\1280_first.png",
+   "sha256_16": "db83fc9e395e9412",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works_contact\\1280_R1.png",
+   "sha256_16": "ad3631d66157ac99",
+   "px": [
+    360,
+    95
+   ],
+   "box": [
+    64,
+    334,
+    135,
+    15
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_contact\\1280_R2_1.png",
+   "sha256_16": "2c877844df5b278b",
+   "px": [
+    624,
+    113
+   ],
+   "box": [
+    64,
+    445,
+    544,
+    33
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_contact\\1280_R2_2.png",
+   "sha256_16": "78eda591c02aad89",
+   "px": [
+    624,
+    113
+   ],
+   "box": [
+    64,
+    846,
+    544,
+    33
+   ]
+  },
+  {
+   "page": "/works/contact/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works_contact\\1280_R3.png",
+   "sha256_16": "5a2ec7b614b338c4",
+   "px": [
+    624,
+    209
+   ],
+   "box": [
+    64,
+    292,
+    544,
+    129
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works_guide\\375_first.png",
+   "sha256_16": "a379425d0f6583af",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works_guide\\375_R1.png",
+   "sha256_16": "62e99406967f1f47",
+   "px": [
+    375,
+    166
+   ],
+   "box": [
+    20,
+    892,
+    335,
+    86
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_guide\\375_R2_1.png",
+   "sha256_16": "8072dc7e6bbc7bd7",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    845,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_guide\\375_R2_2.png",
+   "sha256_16": "559d98aa64a91ba8",
+   "px": [
+    375,
+    119
+   ],
+   "box": [
+    20,
+    1376,
+    335,
+    39
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works_guide\\375_R4.png",
+   "sha256_16": "654389e095897724",
+   "px": [
+    375,
+    131
+   ],
+   "box": [
+    20,
+    317,
+    309,
+    51
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works_guide\\375_R8.png",
+   "sha256_16": "b6cc5a1ff4724d82",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    6565,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works_guide\\375_R9.png",
+   "sha256_16": "9f3390e95154f676",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works_guide\\375_R10.png",
+   "sha256_16": "a266be57cdf0faf0",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works_guide\\1280_first.png",
+   "sha256_16": "7b92301303fd9b92",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works_guide\\1280_R1.png",
+   "sha256_16": "23d93d4042294642",
+   "px": [
+    565,
+    137
+   ],
+   "box": [
+    64,
+    736,
+    485,
+    57
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_guide\\1280_R2_1.png",
+   "sha256_16": "e60e8e394d24eb11",
+   "px": [
+    1232,
+    119
+   ],
+   "box": [
+    64,
+    689,
+    1152,
+    39
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_guide\\1280_R2_2.png",
+   "sha256_16": "8380ff22ecafc403",
+   "px": [
+    1232,
+    119
+   ],
+   "box": [
+    64,
+    1171,
+    1152,
+    39
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_guide\\1280_R2_3.png",
+   "sha256_16": "d6af32c9daab17bf",
+   "px": [
+    1232,
+    128
+   ],
+   "box": [
+    64,
+    4767,
+    1152,
+    48
+   ]
+  },
+  {
+   "page": "/works/guide/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works_guide\\1280_R3.png",
+   "sha256_16": "8cae245d48396aff",
+   "px": [
+    788,
+    230
+   ],
+   "box": [
+    64,
+    372,
+    708,
+    150
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_first.png",
+   "sha256_16": "03eb0b2368d9319f",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_R1.png",
+   "sha256_16": "225437be0592c6d5",
+   "px": [
+    360,
+    110
+   ],
+   "box": [
+    20,
+    226,
+    52,
+    30
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_R2_1.png",
+   "sha256_16": "cf3dab788305e481",
+   "px": [
+    375,
+    134
+   ],
+   "box": [
+    20,
+    1079,
+    335,
+    54
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_R2_2.png",
+   "sha256_16": "e1f62f6ee9ce1a0c",
+   "px": [
+    375,
+    134
+   ],
+   "box": [
+    20,
+    2355,
+    335,
+    54
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_R4.png",
+   "sha256_16": "66f2977148df6881",
+   "px": [
+    375,
+    284
+   ],
+   "box": [
+    20,
+    308,
+    335,
+    204
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_R8.png",
+   "sha256_16": "2651679a5642a06f",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    6412,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_R9.png",
+   "sha256_16": "b2ac0b2d08229c4d",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works_guide_outsourced-unfinished\\375_R10.png",
+   "sha256_16": "b298a299c08dbd5a",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works_guide_outsourced-unfinished\\1280_first.png",
+   "sha256_16": "da21e89f1942feb4",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works_guide_outsourced-unfinished\\1280_R1.png",
+   "sha256_16": "a823d22e3e860313",
+   "px": [
+    360,
+    110
+   ],
+   "box": [
+    64,
+    206,
+    52,
+    30
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_guide_outsourced-unfinished\\1280_R2_1.png",
+   "sha256_16": "40b8a302265e3804",
+   "px": [
+    1040,
+    146
+   ],
+   "box": [
+    64,
+    744,
+    960,
+    66
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_guide_outsourced-unfinished\\1280_R2_2.png",
+   "sha256_16": "3b0c42a40538d682",
+   "px": [
+    1040,
+    146
+   ],
+   "box": [
+    64,
+    1639,
+    960,
+    66
+   ]
+  },
+  {
+   "page": "/works/guide/outsourced-unfinished/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works_guide_outsourced-unfinished\\1280_R3.png",
+   "sha256_16": "0629797d5be91854",
+   "px": [
+    828,
+    216
+   ],
+   "box": [
+    64,
+    560,
+    748,
+    136
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "first",
+   "file": "shots2\\works_cases_integrity-warning\\375_first.png",
+   "sha256_16": "9d7c18dfec07c472",
+   "px": [
+    375,
+    812
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R1",
+   "file": "shots2\\works_cases_integrity-warning\\375_R1.png",
+   "sha256_16": "5f2a4ee7c2d67eb9",
+   "px": [
+    360,
+    106
+   ],
+   "box": [
+    83,
+    647,
+    53,
+    26
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_cases_integrity-warning\\375_R2_1.png",
+   "sha256_16": "535f36ada2547799",
+   "px": [
+    375,
+    144
+   ],
+   "box": [
+    20,
+    1644,
+    335,
+    64
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R2",
+   "file": "shots2\\works_cases_integrity-warning\\375_R2_2.png",
+   "sha256_16": "1a3fa6fced63b77c",
+   "px": [
+    375,
+    144
+   ],
+   "box": [
+    20,
+    1998,
+    335,
+    64
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R4",
+   "file": "shots2\\works_cases_integrity-warning\\375_R4.png",
+   "sha256_16": "a4f48391c4ac2220",
+   "px": [
+    375,
+    233
+   ],
+   "box": [
+    20,
+    308,
+    335,
+    153
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R6",
+   "file": "shots2\\works_cases_integrity-warning\\375_R6.png",
+   "sha256_16": "3fdb09bb64d7a25d",
+   "px": [
+    375,
+    112
+   ],
+   "box": [
+    20,
+    1562,
+    335,
+    32
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R7",
+   "file": "shots2\\works_cases_integrity-warning\\375_R7.png",
+   "sha256_16": "7f6e4a64b86ccaa1",
+   "px": [
+    124,
+    117
+   ],
+   "box": [
+    42,
+    1595,
+    44,
+    37
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R8",
+   "file": "shots2\\works_cases_integrity-warning\\375_R8.png",
+   "sha256_16": "b6cc5a1ff4724d82",
+   "px": [
+    120,
+    125
+   ],
+   "box": [
+    20,
+    6861,
+    40,
+    45
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R9",
+   "file": "shots2\\works_cases_integrity-warning\\375_R9.png",
+   "sha256_16": "e52100a2d035a3db",
+   "px": [
+    177,
+    120
+   ],
+   "box": [
+    20,
+    136,
+    97,
+    40
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 375,
+   "rule": "R10",
+   "file": "shots2\\works_cases_integrity-warning\\375_R10.png",
+   "sha256_16": "95251caf05a5c52c",
+   "px": [
+    147,
+    120
+   ],
+   "box": [
+    20,
+    192,
+    67,
+    40
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 1280,
+   "rule": "first",
+   "file": "shots2\\works_cases_integrity-warning\\1280_first.png",
+   "sha256_16": "d7db51fbc1b15872",
+   "px": [
+    1280,
+    800
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 1280,
+   "rule": "R1",
+   "file": "shots2\\works_cases_integrity-warning\\1280_R1.png",
+   "sha256_16": "de71caca636a9981",
+   "px": [
+    360,
+    106
+   ],
+   "box": [
+    127,
+    496,
+    53,
+    26
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_cases_integrity-warning\\1280_R2_1.png",
+   "sha256_16": "37301a41c7284978",
+   "px": [
+    1232,
+    160
+   ],
+   "box": [
+    64,
+    1385,
+    1152,
+    80
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 1280,
+   "rule": "R2",
+   "file": "shots2\\works_cases_integrity-warning\\1280_R2_2.png",
+   "sha256_16": "5acdf39c77a77f42",
+   "px": [
+    1232,
+    160
+   ],
+   "box": [
+    64,
+    1682,
+    1152,
+    80
+   ]
+  },
+  {
+   "page": "/works/cases/integrity-warning/",
+   "w": 1280,
+   "rule": "R3",
+   "file": "shots2\\works_cases_integrity-warning\\1280_R3.png",
+   "sha256_16": "da192b8c33d2b212",
+   "px": [
+    648,
+    209
+   ],
+   "box": [
+    64,
+    1489,
+    568,
+    129
+   ]
+  }
+ ],
+ "capture_finished": "2026-09-19T06:12:11.740Z"
+}
