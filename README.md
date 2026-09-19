@@ -43,3 +43,7 @@ node shoot_cdp.mjs   # headless Chrome via CDP on port 9333 → shots/, gold_v2.
 ## License
 
 Code: MIT (`LICENSE`). Data, images, tables: CC BY 4.0 (`DATA_LICENSE`) — please credit **Sumitsuke Lab** (https://sumitsuke.jp/lab/). The crops show pages of https://sumitsuke.jp/ as they were on 2026-09-19.
+
+## 変更履歴
+
+- 2026-09-19: 改行を LF に正規化（`.gitattributes`）し、`SHA256SUMS` を git index から再生成した。**それ以前に取得した `SHA256SUMS` とは値が一致しない**。旧い値は commit `9b50b27`（`git show 9b50b27:SHA256SUMS`）。この変更の前は、Windows で取ったハッシュ（CRLF）のため Linux/macOS の `sha256sum -c` が失敗していた。
